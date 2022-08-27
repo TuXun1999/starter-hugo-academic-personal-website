@@ -17,19 +17,19 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 70%
-    icon: computer-classic
-    icon_pack: fab
+    icon: c
+    icon_pack: fas
     name: C++
   - description: 60%
-    icon: brain-circuit
+    icon: python
     icon_pack: fas
-    name: Pytorch
+    name: Python/Pytorch
   - description: 70%
     icon: calculator
     icon_pack: fas
     name: Matlab
   - description: 20%
-    icon: badminton
+    icon: shuttlecock
     icon_pack: fas
     name: Badminton
 # Uncomment to use emoji icons.
