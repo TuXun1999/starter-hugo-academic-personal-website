@@ -5,40 +5,34 @@ avatar_filename: avatar.jpg
 bio: My research interests include robotics, SLAM, control systems and computer
   vision
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Control
+  - Systems
+  - SLAM
+  - Vision
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: txramsey@umich.edu
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/xun_tu
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/TuXun1999
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Michigan, Ann Arbor
+    url: https://umich.edu
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: Master of Science in Electrical and Computer Engineering
+      institution: University of Michigan, Ann Arbor
+    - course: Bachelor of Science in Computer Science and Engineering
+      institution: University of Michigan, Ann Arbor
+      year: 2021
+    - course: Bachelor of Science in Electrical and Computer Engineering
+      institution: Shanghai Jiao Tong University
+      year: 2021
+email: txramsey@umich.edu
 superuser: true
 highlight_name: true
 ---
