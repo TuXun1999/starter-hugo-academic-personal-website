@@ -29,8 +29,8 @@ feature:
     icon_pack: fas
     name: Matlab
   - description: 20%
-    icon: shuttlecock
-    icon_pack: fab
+    icon: heart
+    icon_pack: fas
     name: Badminton
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
