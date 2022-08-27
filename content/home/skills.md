@@ -18,11 +18,11 @@ subtitle:
 feature:
   - description: 70%
     icon: c
-    icon_pack: fas
+    icon_pack: fab
     name: C++
   - description: 60%
     icon: python
-    icon_pack: fas
+    icon_pack: fab
     name: Python/Pytorch
   - description: 70%
     icon: calculator
@@ -30,7 +30,7 @@ feature:
     name: Matlab
   - description: 20%
     icon: shuttlecock
-    icon_pack: fas
+    icon_pack: fab
     name: Badminton
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
