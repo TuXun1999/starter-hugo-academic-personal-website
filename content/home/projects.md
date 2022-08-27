@@ -27,8 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: SLAM
+      tag: SLAM
+    - name: Control
+      tag: Control
     - name: Other
       tag: Demo
 
