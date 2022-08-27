@@ -50,7 +50,7 @@ experience:
     description: Participate the dual degree program; Pursuing BSc. in Computer Engineering
     
     
-  - title: Undergraduate student
+  - title: Undergraduate Student
     company: Shanghai Jiao Tong Unversity
     company_url: ''
     company_logo: org-sh
