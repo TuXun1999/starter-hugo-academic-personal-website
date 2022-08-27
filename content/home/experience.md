@@ -25,7 +25,7 @@ experience:
   - title: Master Student
     company: Rackham Graduate School, University of Michigan, Ann Arbor
     company_url: ''
-    company_logo: org-ra
+    company_logo: um
     location: Ann Arbor
     date_start: '2021-09-01'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Undergraduate student
     company: Shanghai Jiao Tong Unversity
     company_url: ''
-    company_logo: org-sh
+    company_logo: sh
     location: Shanghai, China
     date_start: '2021-05-10'
     date_end: '2021-08-10'
@@ -43,7 +43,7 @@ experience:
   - title: Undergraudate Student
     company: University of Michigan, Ann Arbor
     company_url: ''
-    company_logo: org-um
+    company_logo: um
     location: Ann Arbor
     date_start: '2019-09-02'
     date_end: '2021-04-29'
@@ -53,7 +53,7 @@ experience:
   - title: Undergraduate Student
     company: Shanghai Jiao Tong Unversity
     company_url: ''
-    company_logo: org-sh
+    company_logo: sh
     location: Shanghai, China
     date_start: '2017-09-03'
     date_end: '2019-08-08'
