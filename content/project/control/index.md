@@ -2,14 +2,14 @@
 title: Feedforward Tracking Control of Nonminimum Phase Systems using Filtered Basis Function 
 summary: A brief introduction to my works in this project
 tags:
-  - SLAM
+  - Control
 date: '2022-08-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Diagram for the General Methodology
   focal_point: Smart
 
 links:
