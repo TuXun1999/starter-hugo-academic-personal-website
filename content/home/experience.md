@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-ra
     location: Ann Arbor
-    date_start: '2021-09'
+    date_start: '2021-09-01'
     date_end: ''
     description: Pursuing MSc. in ECE
     
@@ -36,8 +36,8 @@ experience:
     company_url: ''
     company_logo: org-sh
     location: Shanghai, China
-    date_start: '2021-05'
-    date_end: '2021-08'
+    date_start: '2021-05-10'
+    date_end: '2021-08-10'
     description: Back to Continue Pursuing BSc. in ECE
     
   - title: Undergraudate Student
@@ -45,8 +45,8 @@ experience:
     company_url: ''
     company_logo: org-um
     location: Ann Arbor
-    date_start: '2019-10'
-    date_end: '2021-04'
+    date_start: '2019-09-02'
+    date_end: '2021-04-29'
     description: Participate the dual degree program; Pursuing BSc. in Computer Engineering
     
     
@@ -55,8 +55,8 @@ experience:
     company_url: ''
     company_logo: org-sh
     location: Shanghai, China
-    date_start: '2017-09'
-    date_end: '2019-08'
+    date_start: '2017-09-03'
+    date_end: '2019-08-08'
     description: Pursuing BSc. in ECE
 
 design:
