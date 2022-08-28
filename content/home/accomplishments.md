@@ -23,29 +23,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://drive.google.com/drive/folders/1mCtqt57aepU82ashsgVGUVNLVxACM-17
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2018'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization: The Judges of The 2018 University Physics Competition
+    organization_url: ''
+    title: Silver Medal Winner
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: ''
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_start: '2017-09-01'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: Shanghai Jiao Tong University Joint Institute
+    organization_url: https://www.ji.sjtu.edu.cn/
+    title: 2017 UM-SJTU Joint Institute Wu Jiong&Sun Jie Scholarship
+    url: ''
+  - certificate_url: https://www.credly.com/badges/3e6c2a3d-70fd-4df0-b5c7-1c4b909b4a68
+    date_end: '2020-07-20'
+    date_start: '2020-07-10'
+    description: acquire business and technical acumen along with personal growth and professional development
+    organization: AT&T College Recruiting
+    organization_url: https://www.credly.com/organizations/att-summer-learning-academy/badges
+    title: ''
     url: ''
 
 design:
