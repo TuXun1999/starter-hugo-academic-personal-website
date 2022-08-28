@@ -27,7 +27,7 @@ item:
     date_end: ''
     date_start: '2018'
     description: ''
-    organization: The Judges of The 2018 University Physics Competition
+    organization: 'The Judges of The 2018 University Physics Competition'
     organization_url: ''
     title: Silver Medal Winner
     url: ''
@@ -35,15 +35,15 @@ item:
     date_end: ''
     date_start: '2017-09-01'
     description: ''
-    organization: Shanghai Jiao Tong University Joint Institute
+    organization: 'Shanghai Jiao Tong University Joint Institute'
     organization_url: https://www.ji.sjtu.edu.cn/
-    title: 2017 UM-SJTU Joint Institute Wu Jiong&Sun Jie Scholarship
+    title: '2017 UM-SJTU Joint Institute Wu Jiong&Sun Jie Scholarship'
     url: ''
   - certificate_url: https://www.credly.com/badges/3e6c2a3d-70fd-4df0-b5c7-1c4b909b4a68
     date_end: '2020-07-20'
     date_start: '2020-07-10'
-    description: acquire business and technical acumen along with personal growth and professional development
-    organization: AT&T College Recruiting
+    description: 'acquire business and technical acumen along with personal growth and professional development'
+    organization: 'AT&T College Recruiting'
     organization_url: https://www.credly.com/organizations/att-summer-learning-academy/badges
     title: ''
     url: ''
