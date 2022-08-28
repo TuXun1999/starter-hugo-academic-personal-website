@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - certificate_url: https://drive.google.com/drive/folders/1mCtqt57aepU82ashsgVGUVNLVxACM-17
     date_end: ''
-    date_start: '2018'
+    date_start: '2018-12-01'
     description: ''
     organization: 'The Judges of The 2018 University Physics Competition'
     organization_url: ''
