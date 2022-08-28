@@ -6,17 +6,17 @@ tags:
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: https://gitlab.eecs.umich.edu/umfordav/thermal_dataset/-/tree/master
 
 image:
   caption: Demo photo from Kitti Dataset
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: gitlab
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/xun_tu
+    url: https://gitlab.eecs.umich.edu/umfordav/thermal_dataset/-/tree/master
 url_code: ''
 url_pdf: ''
 url_slides: ''
