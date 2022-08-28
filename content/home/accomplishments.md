@@ -45,7 +45,7 @@ item:
     description: 'acquire business and technical acumen along with personal growth and professional development'
     organization: 'AT&T College Recruiting'
     organization_url: https://www.credly.com/organizations/att-summer-learning-academy/badges
-    title: ''
+    title: 'AT&T Summer Learning Academy Extern'
     url: ''
 
 design:
