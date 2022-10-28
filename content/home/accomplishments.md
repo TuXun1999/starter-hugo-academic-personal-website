@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://drive.google.com/drive/folders/1mCtqt57aepU82ashsgVGUVNLVxACM-17
+  - certificate_url: {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
     date_end: ''
     date_start: '2018-12-01'
     description: ''
