@@ -24,12 +24,12 @@ organizations:
     url: https://umich.edu
 education:
   courses:
-    - course: Master of Science in Electrical and Computer Engineering
+    - course: Master of Science in Electrical and Computer Engineering ({{< staticref "uploads/SSR_TSRPT_SC.pdf" "newtab" >}}transcript{{< /staticref >}})
       institution: University of Michigan, Ann Arbor
-    - course: Bachelor of Science in Computer Science and Engineering
+    - course: Bachelor of Science in Computer Science and Engineering ({{< staticref "uploads/SSR_TSRPT_SC.pdf" "newtab" >}}transcript{{< /staticref >}})
       institution: University of Michigan, Ann Arbor
       year: 2021
-    - course: Bachelor of Science in Electrical and Computer Engineering
+    - course: Bachelor of Science in Electrical and Computer Engineering ({{< staticref "uploads/Transcript_SJTU.pdf" "newtab" >}}transcript{{< /staticref >}})
       institution: Shanghai Jiao Tong University
       year: 2021
 email: txramsey@umich.edu
