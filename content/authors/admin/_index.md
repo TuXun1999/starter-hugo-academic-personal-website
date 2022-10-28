@@ -24,12 +24,12 @@ organizations:
     url: https://umich.edu
 education:
   courses:
-    - course: Master of Science in Electrical and Computer Engineering (GPA: 4.0)
+    - course: Master of Science in Electrical and Computer Engineering
       institution: University of Michigan, Ann Arbor
-    - course: Bachelor of Science in Computer Science and Engineering (GPA: 3.72)
+    - course: Bachelor of Science in Computer Science and Engineering
       institution: University of Michigan, Ann Arbor
       year: 2021
-    - course: Bachelor of Science in Electrical and Computer Engineering (GPA: 3.74)
+    - course: Bachelor of Science in Electrical and Computer Engineering
       institution: Shanghai Jiao Tong University
       year: 2021
 email: txramsey@umich.edu
