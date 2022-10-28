@@ -38,4 +38,4 @@ highlight_name: true
 ---
 Xun Tu is a master student in Electrical & Computer Engineering program in University of Michigan, Ann Arbor. His research interests include robotics, SLAM, control systems and computer vision. He has joined the project SLAM Algorithms in Adverse Conditions lead by UM Ford Center for Autonomous Vehicles 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_XUN_TU.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my <a download="/uploads/CV_XUN_TU.pdf">resume</a>
