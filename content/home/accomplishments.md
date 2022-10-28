@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://txramsey.com/uploads/Physics_Competition.pdf
+  - certificate_url: "https://txramsey.com/uploads/Physics-Competition.pdf"
     date_end: ''
     date_start: '2018-12-01'
     description: ''
