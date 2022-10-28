@@ -24,7 +24,7 @@ organizations:
     url: https://umich.edu
 education:
   courses:
-    - course: Master of Science in Electrical and Computer Engineering ({{< staticref "uploads/SSR_TSRPT_SC.pdf" "newtab" >}}transcript{{< /staticref >}})
+    - course: Master of Science in Electrical and Computer Engineering ([transcript](https://txramsey/uploads/SSR_TSRPT_SC.pdf))
       institution: University of Michigan, Ann Arbor
     - course: Bachelor of Science in Computer Science and Engineering ({{< staticref "uploads/SSR_TSRPT_SC.pdf" "newtab" >}}transcript{{< /staticref >}})
       institution: University of Michigan, Ann Arbor
