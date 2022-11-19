@@ -16,7 +16,7 @@ links:
   - icon: youtube
     icon_pack: fab
     name: Follow
-    url: [Youtube Video for the Overview of the project](https://www.youtube.com/watch?v=6sN71fx9frk)
+    url: https://www.youtube.com/watch?v=6sN71fx9frk
 url_code: ''
 url_pdf: ''
 url_slides: ''
